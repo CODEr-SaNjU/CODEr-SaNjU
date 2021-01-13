@@ -3,3 +3,6 @@
     design and develop websites, landing pages and applications for startups and enterprises.
  
   Contact me on [instagram](https://www.instagram.com/_mr_tdb/)or Send an [Email](mailto:"sanju2help@gmail.com")
+  
+  # Languages and Tools:
+  ![Python Logo](https://images.app.goo.gl/kG37TBC4uAmkqz5Q6)
