@@ -1,4 +1,5 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Sanju saini ](https://hidden-taiga-33691.herokuapp.com/)
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sanju A full Stack Developer ](https://hidden-taiga-33691.herokuapp.com/)
+<h2 align="center">I'm an Engineer by profession and a Teacher by passion. &nbsp;❤️&nbsp; </h2>
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -30,7 +31,7 @@
 * Earned Gold badge & 5 star at [HackerRank](https://www.hackerrank.com/Pooja2meena?hr_r=1) in Python programming.
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://sanju2help.medium.com/) & make educational [YouTube Videos](https://www.youtube.com/channel/UC21zytHXnzkzQeARU5OcIrQ).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-
+* I have traine 100 student 
 <!--* 🏠 Hogwarts House: Griffindor-->
 <!--* If you play Call of Duty- add me: Blackhood@00-->
 <!--* I am currently learning Docker-->
@@ -67,7 +68,7 @@
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{coder-sanju}/count.svg)
 
 
 [twitter]: https://twitter.com/SWwET_FoRvEr
