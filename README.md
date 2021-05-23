@@ -45,7 +45,7 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [How To Write An ORM QuerySet In Terminal? | Git vs GitHub](https://sanju2help.medium.com/how-to-write-an-orm-queryset-in-terminal-755a514f5385)
+- [How To Write An ORM QuerySet In Terminal? ](https://sanju2help.medium.com/how-to-write-an-orm-queryset-in-terminal-755a514f5385)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://sanju2help.medium.com/)
 </td>
