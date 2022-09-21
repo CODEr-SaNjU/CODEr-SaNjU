@@ -4,6 +4,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/Gmail-blue.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />][Gmail]
 [<img height="30" src="https://img.shields.io/badge/Instagram-blue.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][Instagram]
+[https://sanjusaini.in/][Portfolio]:
 
 
 
@@ -26,7 +27,7 @@
 
  
 
-* My primary coding language: Python
+* My primary coding language: Python, Javascript
 * Earned Gold badge & 5 star at [HackerRank](https://www.hackerrank.com/Pooja2meena?hr_r=1) in Python programming.
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://sanju2help.medium.com/) & make educational [YouTube Videos](https://www.youtube.com/channel/UC21zytHXnzkzQeARU5OcIrQ).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
