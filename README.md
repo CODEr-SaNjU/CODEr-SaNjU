@@ -31,7 +31,7 @@
 
  
 
-* My primary coding language: Python, Javascript
+* My primary coding language: Python, Javascript, Golang
 * Earned Gold badge & 5 star at [HackerRank](https://www.hackerrank.com/Pooja2meena?hr_r=1) in Python programming.
 * Passionate for learning & exploring new Tech. I write [Tech Blogs](https://sanju2help.medium.com/) & make educational [YouTube Videos](https://www.youtube.com/channel/UC21zytHXnzkzQeARU5OcIrQ).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting their programming journey.
