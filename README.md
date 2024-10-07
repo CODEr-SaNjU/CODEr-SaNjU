@@ -33,7 +33,7 @@
 
 * My primary coding language: Python, Javascript, Golang
 * Earned Gold badge & 5 star at [HackerRank](https://www.hackerrank.com/Pooja2meena?hr_r=1) in Python programming.
-* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://sanju2help.medium.com/) & make educational [YouTube Videos](https://www.youtube.com/channel/UC21zytHXnzkzQeARU5OcIrQ).
+* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://coder-sanju.medium.com/) & make educational [YouTube Videos](https://www.youtube.com/channel/UC21zytHXnzkzQeARU5OcIrQ).
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting their programming journey.
 * I have trained 100+ students in the last 4+ year
 <!--* 🏠 Hogwarts House: Griffindor-->
@@ -50,9 +50,9 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [How To Write An ORM QuerySet In Terminal? ](https://sanju2help.medium.com/how-to-write-an-orm-queryset-in-terminal-755a514f5385)
+- [How To Write An ORM QuerySet In Terminal? ](https://coder-sanju.medium.com/how-to-write-an-orm-queryset-in-terminal-755a514f5385)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://sanju2help.medium.com/)
+➡️ [more blog posts...](https://coder-sanju.medium.com/)
 </td>
 <td valign="top" width="50%">
 
